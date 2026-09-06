@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I%27m+Mingke+Tian;CS+%26+Computational+Math+%40+Emory;Multimodal+ML+%2B+Agentic+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=740&lines=Hi+%F0%9F%91%8B+I%27m+Mingke;CS+%26+Computational+Math+%40+Emory+University;Multimodal+ML+%2B+Agentic+Systems" alt="Typing SVG" />
 </h1>
 
 <!-- Uncomment once mingketian.github.io exists — right now this link would 404.
