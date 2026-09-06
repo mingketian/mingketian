@@ -22,29 +22,15 @@
 
 ## 🔬 Research Interests
 
-<!-- ─────────────────────────────────────────────────────────────────────
-  Send me the text and I'll fill this in. The format is one bold title per
-  interest, then a paragraph, as a blockquote:
+> **Grounding Multimodal Models in Physical Action**
+> I work on turning vision-language models into policies that can act, and on closing the gap between what a model predicts and what a machine can safely execute. That means action representations which survive contact with real hardware, evaluation that exposes compounding error before it reaches a robot arm rather than after, and learning from human corrections collected at the states a policy actually fails in. My longer-term interest is in world models that let an embodied agent anticipate the consequences of its own actions instead of imitating a demonstration of them.
 
-> **Title of the first research interest**
-> One paragraph on what you work on and why it matters.
->
-> **Title of the second research interest**
-> Another paragraph.
-───────────────────────────────────────────────────────────────────── -->
+> **Agentic Systems over Structured and Long-Form Technical Documents**
+> I work on systems that can read the documents science and engineering actually run on — long, multimodal, and full of structure that plain-text extraction destroys. That means multimodal and structured extraction which preserves tables, figures and cross-references, retrieval that respects document layout, and agents that decompose a technical question into steps whose intermediate results can each be checked. My goal is reasoning that is auditable: when the answer is wrong, it should be possible to point at the step that made it wrong rather than at the model as a whole.
 
 ---
 
 ## 👨🏻‍💻 Languages and Tools
-
-<!-- The official instance (github-readme-stats.vercel.app) returns 503, and most public
-     mirrors run without a GitHub token, so they render a "Maximum retries exceeded"
-     error card instead of your languages. This one has a token behind it and returns
-     real data. If it ever starts showing an error card, delete these three lines —
-     the icon table below stands on its own. -->
-<p align="center">
-  <img src="https://github-readme-stats-eight-sable.vercel.app/api/top-langs/?username=mingketian&layout=compact&theme=tokyonight" height="170"/>
-</p>
 
 <table align="center">
   <tbody>
