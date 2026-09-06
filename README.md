@@ -12,7 +12,10 @@
 
 <p align="center">
   🎓 Undergraduate in Computational Mathematics & Computer Science @ Emory University
+  <br/>
   🤖 I currently work on multimodal and structured ML algorithms, agentic systems and world model for solving complex scientific and engineering problems.
+  <br/>
+  ⚡ I also care about efficient implementation and optimization — making models fit the memory, latency and safety budgets of the hardware they actually run on.
   <br/>
   📧 Email: <a href="mailto:mingke.tian@emory.edu">mingke.tian[@]emory.edu</a>
 </p>
