@@ -11,8 +11,10 @@
 -->
 
 <p align="center">
-  🎓 Undergraduate in Computational Mathematics & Computer Science @ Emory University  
-  🤖 I currently work on multimodal and structured ML algorithms, agentic systems and world model for solving complex scientific and engineering problems.  
+  🎓 Undergraduate in Computational Mathematics & Computer Science @ Emory University
+  <br/>
+  🤖 I currently work on multimodal and structured ML algorithms, agentic systems and world model for solving complex scientific and engineering problems.
+  <br/>
   📧 Email: <a href="mailto:mingke.tian@emory.edu">mingke.tian[@]emory.edu</a>
 </p>
 
@@ -35,12 +37,13 @@
 
 ## 👨🏻‍💻 Languages and Tools
 
-<!-- The official github-readme-stats instance (github-readme-stats.vercel.app) has been
-     returning 503 for a while — that is why this card is broken on a lot of profiles.
-     This is a working community mirror. If it ever stops rendering, just delete it;
+<!-- The official instance (github-readme-stats.vercel.app) returns 503, and most public
+     mirrors run without a GitHub token, so they render a "Maximum retries exceeded"
+     error card instead of your languages. This one has a token behind it and returns
+     real data. If it ever starts showing an error card, delete these three lines —
      the icon table below stands on its own. -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mingketian&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-eight-sable.vercel.app/api/top-langs/?username=mingketian&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <table align="center">
