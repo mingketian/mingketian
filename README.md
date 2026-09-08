@@ -19,10 +19,10 @@
 
 ## 🔬 Research Interests
 
-> **Structured Learning and Efficient Scientific Computing**
+> **Structured Learning and Efficient Scientific Computing**<br/>
 > I am interested in designing structured machine learning algorithms and efficient computational methods for complex scientific and engineering problems. My focus is on incorporating mathematical structure, constraints, and domain knowledge into learning and optimization, and connecting learned models with numerical algorithms. This includes scientific machine learning, structured optimization, and agentic systems for adaptive computational workflows, with an emphasis on numerical reliability, computational efficiency, and practical implementation.
 
-> **Learning Physical Dynamics and Embodied Behavior**
+> **Learning Physical Dynamics and Embodied Behavior**<br/>
 > I am interested in how models learn representations of motion, behavior, and physical dynamics from multimodal observations. My interests span world models for human mobility, vision-language models for human motion understanding, and vision-language-action models for robotic interaction. Across these settings, I aim to connect perception with predictive models of how states and actions evolve, supporting physically consistent prediction, generation, and planning in real-world environments.
 
 ---
