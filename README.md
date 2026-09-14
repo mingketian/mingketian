@@ -15,6 +15,21 @@
   📧 Email: <a href="mailto:mingke.tian@emory.edu">mingke.tian[@]emory.edu</a>
 </p>
 
+<div align="center">
+  <img src="assets/agent.svg" width="480" alt="A small agent running my projects in a terminal" />
+</div>
+
+<details>
+<summary><b>🧪 What the little agent is actually running</b></summary>
+
+|  |  |
+|---|---|
+| **[ParcelVLA](https://github.com/mingketian/VLA-training-and-real-robot-deployment-for-parcel-manipulation)** | GR00T N1.7 fine-tuned for parcel manipulation and deployed on a SIASUN wheeled humanoid — relative-EEF action chunks at H=16, 10 Hz, behind a scripted safety arbiter. |
+| **[Throughline](https://github.com/mingketian/Long-document-multimodal-extraction-system)** | Cross-page extraction from long technical documents, with failure attribution across eight pipeline stages — only two of which a training run can actually fix. |
+| **ATSolver** <sub>(private — paper under review)</sub> | A verifier-grounded agent harness: typed per-branch action tools, trusted execution, and budget-constrained revision over 628 workload contracts. |
+
+</details>
+
 ---
 
 ## 🔬 Research Interests
