@@ -29,75 +29,21 @@
 
 ## 👩🏻‍💻 Languages and Tools
 
-<p align="center"><b>🧠&nbsp; Deep learning &amp; multimodal models</b></p>
+**🧠&nbsp; Deep learning &amp; multimodal models**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="26">
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" height="26">
-  <img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-7C3AED?style=flat-square&logo=huggingface&logoColor=white" alt="PEFT / LoRA" height="26">
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" height="26">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" height="26">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" height="26">
-</p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="26"> <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" height="26"> <img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-7C3AED?style=flat-square&logo=huggingface&logoColor=white" alt="PEFT / LoRA" height="26"> <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" height="26"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" height="26"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" height="26">
 
-<p align="center"><b>🦾&nbsp; Embodied AI &amp; robotics</b></p>
+**🦾&nbsp; Embodied AI &amp; robotics**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NVIDIA%20Isaac%20GR00T-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac GR00T" height="26">
-  <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" height="26">
-  <img src="https://img.shields.io/badge/Intel%20RealSense-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel RealSense" height="26">
-  <img src="https://img.shields.io/badge/SpaceMouse%20teleop-455A64?style=flat-square" alt="SpaceMouse teleop" height="26">
-</p>
+<img src="https://img.shields.io/badge/NVIDIA%20Isaac%20GR00T-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac GR00T" height="26"> <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" height="26"> <img src="https://img.shields.io/badge/Intel%20RealSense-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel RealSense" height="26">
 
-<p align="center"><b>🧩&nbsp; Agentic systems &amp; structured outputs</b></p>
+**📐&nbsp; Scientific computing &amp; structured data**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" height="26">
-  <img src="https://img.shields.io/badge/JSON%20Schema-1E293B?style=flat-square" alt="JSON Schema" height="26">
-  <img src="https://img.shields.io/badge/Constrained%20decoding-3F6212?style=flat-square" alt="Constrained decoding" height="26">
-  <img src="https://img.shields.io/badge/Typed%20tool%20calling-4C1D95?style=flat-square" alt="Typed tool calling" height="26">
-  <img src="https://img.shields.io/badge/Hugging%20Face%20Hub-FFAF00?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Hub" height="26">
-</p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="26"> <img src="https://img.shields.io/badge/SciPy-0C5A9E?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" height="26"> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" height="26"> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" height="26"> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" height="26"> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" alt="MATLAB" height="26"> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="26">
 
-<p align="center"><b>📐&nbsp; Scientific &amp; numerical computing</b></p>
+**⚙️&nbsp; Engineering, evaluation &amp; languages**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="26">
-  <img src="https://img.shields.io/badge/SciPy-0C5A9E?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" height="26">
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" height="26">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" height="26">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" alt="MATLAB" height="26">
-  <img src="https://img.shields.io/badge/HYPRE%20%2F%20SuperLU-2E5E4E?style=flat-square" alt="HYPRE / SuperLU" height="26">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="26">
-</p>
-
-<p align="center"><b>🧪&nbsp; Evaluation, experiments &amp; infrastructure</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" height="26">
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" height="26">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" height="26">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="26">
-  <img src="https://img.shields.io/badge/Linux-1F2328?style=flat-square&logo=linux&logoColor=white" alt="Linux" height="26">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" height="26">
-  <img src="https://img.shields.io/badge/Make-6D4C41?style=flat-square&logo=make&logoColor=white" alt="Make" height="26">
-  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white" alt="uv" height="26">
-</p>
-
-<p align="center"><b>⌨️&nbsp; Languages &amp; everyday tooling</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="26">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" height="26">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" height="26">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="26">
-  <img src="https://img.shields.io/badge/SQL%20%2F%20PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL / PostgreSQL" height="26">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" height="26">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="26">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" height="26">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" alt="VS Code" height="26">
-</p>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="26"> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" height="26"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" height="26"> <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="26"> <img src="https://img.shields.io/badge/SQL%20%2F%20PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL / PostgreSQL" height="26"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" height="26"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="26"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="26"> <img src="https://img.shields.io/badge/Linux-1F2328?style=flat-square&logo=linux&logoColor=white" alt="Linux" height="26"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" height="26"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" height="26"> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" height="26"> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" height="26">
 
 ## 🤝 Connect with me
 <p align="center">
