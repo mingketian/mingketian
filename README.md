@@ -16,11 +16,11 @@
 </p>
 
 <div align="center">
-  <img src="assets/agent.svg" width="480" alt="A small agent running my projects in a terminal" />
+  <img src="assets/agent.svg" width="480" alt="A small red panda watching my projects run in a terminal" />
 </div>
 
 <details>
-<summary><b>🧪 What the little agent is actually running</b></summary>
+<summary><b>🧪 What is actually running in that terminal</b></summary>
 
 |  |  |
 |---|---|
