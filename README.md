@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=740&lines=Hi+%F0%9F%91%8B+I%27m+Mingke;CS+%26+Computational+Math+%40+Emory+University;Multimodal+ML+%2B+Agentic+Systems" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="assets/banner-sakura.svg" alt="Mingke Tian — Computational Mathematics &amp; Computer Science" width="100%" />
+</p>
 
 <!-- Temporary host. Swap this href for https://mingketian.github.io/ once that exists. -->
 <p align="center">
@@ -16,11 +16,11 @@
 </p>
 
 <div align="center">
-  <img src="assets/agent.svg" width="480" alt="A small red panda watching my projects run in a terminal" />
+  <img src="assets/fox.svg" width="210" alt="A small white fox sitting in the snow" />
 </div>
 
 <details>
-<summary><b>🧪 What is actually running in that terminal</b></summary>
+<summary><b>🧪 What I am building right now</b></summary>
 
 |  |  |
 |---|---|

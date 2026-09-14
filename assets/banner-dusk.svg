@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320"
+     role="img" aria-label="Mingke Tian — violet and amber dusk banner">
+  <defs>
+    <linearGradient id="sk" x1=".12" y1="0" x2=".88" y2="1">
+      <stop offset="0"   stop-color="#2e2360"/><stop offset=".3"  stop-color="#4b3590"/>
+      <stop offset=".56" stop-color="#7d55ad"/><stop offset=".78" stop-color="#c07fa4"/>
+      <stop offset="1"   stop-color="#f2b06a"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffd995" stop-opacity="1"/><stop offset=".42" stop-color="#f5a95f" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#f0985a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="h1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#553d92"/><stop offset="1" stop-color="#3d2c73"/>
+    </linearGradient>
+    <linearGradient id="h2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#35265f"/><stop offset="1" stop-color="#241a46"/>
+    </linearGradient>
+    <linearGradient id="wis" x1=".5" y1="0" x2=".5" y2="1">
+      <stop offset="0" stop-color="#c9aee8"/><stop offset=".5" stop-color="#a985d9"/><stop offset="1" stop-color="#8360bd"/>
+    </linearGradient>
+    <linearGradient id="wis2" x1=".5" y1="0" x2=".5" y2="1">
+      <stop offset="0" stop-color="#f0d9a4"/><stop offset="1" stop-color="#d9a763"/>
+    </linearGradient>
+    <linearGradient id="bk" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3a2a5c"/><stop offset="1" stop-color="#241a40"/>
+    </linearGradient>
+    <filter id="bl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="18"/></filter>
+    <filter id="bl2" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3"/></filter>
+    <clipPath id="fr"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .tw1,.tw2,.tw3,.tw4,.tw5,.tw6 { animation: tw 4.2s ease-in-out infinite; }
+    .tw2{animation-delay:.7s}.tw3{animation-delay:1.4s}.tw4{animation-delay:2.1s}
+    .tw5{animation-delay:2.8s}.tw6{animation-delay:3.5s}
+    @keyframes tw { 0%,100%{opacity:.25;transform:scale(.8)} 50%{opacity:1;transform:scale(1.25)} }
+    .hang { animation: hg 8s ease-in-out infinite; transform-origin: 50% 0%; transform-box: fill-box; }
+    .hang2{ animation: hg 8s ease-in-out infinite reverse; transform-origin: 50% 0%; transform-box: fill-box; }
+    @keyframes hg { 0%,100%{transform:rotate(-1.4deg)} 50%{transform:rotate(1.4deg)} }
+    @media (prefers-reduced-motion: reduce){ .tw1,.tw2,.tw3,.tw4,.tw5,.tw6,.hang,.hang2{animation:none;opacity:.8} }
+  </style>
+
+  <g clip-path="url(#fr)">
+    <rect width="1200" height="320" fill="url(#sk)"/>
+    <circle cx="1010" cy="268" r="190" fill="url(#sun)"/>
+    <circle cx="1010" cy="268" r="46" fill="#ffdc9c" opacity=".92"/>
+    <g filter="url(#bl)" opacity=".32">
+      <circle cx="240" cy="70" r="70" fill="#7e5fc0"/><circle cx="700" cy="40" r="54" fill="#5a3f9e"/>
+    </g>
+
+    <g fill="#ffeec9">
+      <circle class="tw1" cx="120" cy="44"  r="2.4"/><circle class="tw2" cx="310" cy="28" r="1.9"/>
+      <circle class="tw3" cx="470" cy="62"  r="2.2"/><circle class="tw4" cx="640" cy="34" r="1.8"/>
+      <circle class="tw5" cx="196" cy="96"  r="1.7"/><circle class="tw6" cx="806" cy="56" r="2"/>
+    </g>
+
+    <path d="M0 250 C 140 216, 300 228, 450 256 C 610 286, 800 278, 1200 240 L1200 320 L0 320 Z" fill="url(#h1)" opacity=".9"/>
+    <path d="M0 286 C 200 262, 380 280, 580 300 C 790 320, 980 308, 1200 282 L1200 320 L0 320 Z" fill="url(#h2)"/>
+
+    <!-- wisteria, hanging from the top rail -->
+    <path d="M-10 8 C 200 26, 430 18, 640 30 C 850 42, 1010 30, 1210 12" fill="none" stroke="url(#bk)" stroke-width="10" stroke-linecap="round"/>
+    <g class="hang">
+      <path d="M84 18 C 80 56, 88 92, 82 126" fill="none" stroke="#3a2a5c" stroke-width="3"/>
+      <g fill="url(#wis)">
+        <ellipse cx="84" cy="34" rx="12" ry="10"/><ellipse cx="76" cy="54" rx="11" ry="9"/>
+        <ellipse cx="90" cy="72" rx="10" ry="8.5"/><ellipse cx="80" cy="90" rx="9" ry="7.5"/>
+        <ellipse cx="86" cy="108" rx="7.5" ry="6.5"/><ellipse cx="82" cy="124" rx="6" ry="5"/>
+      </g>
+    </g>
+    <g class="hang2">
+      <path d="M246 22 C 242 52, 250 78, 244 100" fill="none" stroke="#3a2a5c" stroke-width="2.6"/>
+      <g fill="url(#wis2)">
+        <ellipse cx="246" cy="36" rx="10.5" ry="9"/><ellipse cx="239" cy="54" rx="9.5" ry="8"/>
+        <ellipse cx="251" cy="70" rx="8.5" ry="7"/><ellipse cx="244" cy="86" rx="7" ry="6"/>
+        <ellipse cx="248" cy="100" rx="5.5" ry="4.5"/>
+      </g>
+    </g>
+    <g class="hang">
+      <path d="M960 28 C 956 62, 964 94, 958 120" fill="none" stroke="#3a2a5c" stroke-width="3"/>
+      <g fill="url(#wis)">
+        <ellipse cx="960" cy="42" rx="11.5" ry="9.5"/><ellipse cx="952" cy="62" rx="10.5" ry="8.5"/>
+        <ellipse cx="966" cy="80" rx="9.5" ry="8"/><ellipse cx="956" cy="98" rx="8" ry="6.5"/>
+        <ellipse cx="962" cy="116" rx="6" ry="5"/>
+      </g>
+    </g>
+    <g class="hang2">
+      <path d="M1108 16 C 1104 44, 1112 68, 1106 88" fill="none" stroke="#3a2a5c" stroke-width="2.6"/>
+      <g fill="url(#wis2)">
+        <ellipse cx="1108" cy="30" rx="10" ry="8.5"/><ellipse cx="1101" cy="48" rx="9" ry="7.5"/>
+        <ellipse cx="1113" cy="64" rx="7.5" ry="6.5"/><ellipse cx="1106" cy="80" rx="6" ry="5"/>
+      </g>
+    </g>
+
+    <g filter="url(#bl2)" opacity=".5" fill="#ffe3b0">
+      <circle cx="880" cy="200" r="4"/><circle cx="930" cy="230" r="3"/><circle cx="826" cy="228" r="3.5"/>
+    </g>
+
+    <g text-anchor="middle">
+      <text x="560" y="166" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif"
+            font-size="60" letter-spacing="3" fill="#fdf1e2">Mingke Tian</text>
+      <text x="560" y="202" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, sans-serif"
+            font-size="17" letter-spacing="5.5" fill="#e6cdf0">COMPUTATIONAL MATHEMATICS &amp; COMPUTER SCIENCE</text>
+      <line x1="430" y1="222" x2="690" y2="222" stroke="#f0b86e" stroke-width="1.3" opacity=".85"/>
+      <text x="560" y="248" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, sans-serif"
+            font-size="15" letter-spacing="1.6" fill="#f2c48f">multimodal ML · agentic systems · world models</text>
+    </g>
+  </g>
+</svg>
