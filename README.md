@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="assets/banner-sakura.svg" alt="Mingke Tian — Computational Mathematics &amp; Computer Science" width="100%" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=200&color=58A6FF&center=true&vCenter=true&width=740&lines=Hi+%F0%9F%91%8B+I%27m+Mingke;CS+%26+Computational+Math+%40+Emory+University;Multimodal+ML+%2B+Agentic+Systems" alt="Typing SVG" />
+</h1>
 
 <!-- Temporary host. Swap this href for https://mingketian.github.io/ once that exists. -->
 <p align="center">
@@ -15,21 +15,6 @@
   📧 Email: <a href="mailto:mingke.tian@emory.edu">mingke.tian[@]emory.edu</a>
 </p>
 
-<div align="center">
-  <img src="assets/fox.svg" width="210" alt="A small white fox sitting in the snow" />
-</div>
-
-<details>
-<summary><b>🧪 What I am building right now</b></summary>
-
-|  |  |
-|---|---|
-| **[ParcelVLA](https://github.com/mingketian/VLA-training-and-real-robot-deployment-for-parcel-manipulation)** | GR00T N1.7 fine-tuned for parcel manipulation and deployed on a SIASUN wheeled humanoid — relative-EEF action chunks at H=16, 10 Hz, behind a scripted safety arbiter. |
-| **[Throughline](https://github.com/mingketian/Long-document-multimodal-extraction-system)** | Cross-page extraction from long technical documents, with failure attribution across eight pipeline stages — only two of which a training run can actually fix. |
-| **ATSolver** <sub>(private — paper under review)</sub> | A verifier-grounded agent harness: typed per-branch action tools, trusted execution, and budget-constrained revision over 628 workload contracts. |
-
-</details>
-
 ---
 
 ## 🔬 Research Interests
@@ -42,44 +27,77 @@
 
 ---
 
-## 👨🏻‍💻 Languages and Tools
+## 👩🏻‍💻 Languages and Tools
 
-<table align="center">
-  <tbody>
-    <tr>
-      <td align="center"><strong>Python & Related</strong></td>
-      <td align="center" width="55"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="45" height="45"/></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Languages</strong></td>
-      <td align="center" width="55"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="SQL / PostgreSQL" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="45" height="45"/></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Frameworks / Platforms / Tools</strong></td>
-      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ROS 2" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="45" height="45"/></td>
-      <td align="center" width="55"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="45" height="45"/></td>
-    </tr>
-  </tbody>
-</table>
+<p align="center"><b>🧠&nbsp; Deep learning &amp; multimodal models</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" height="26">
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" height="26">
+  <img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-7C3AED?style=flat-square&logo=huggingface&logoColor=white" alt="PEFT / LoRA" height="26">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" height="26">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" height="26">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" height="26">
+</p>
+
+<p align="center"><b>🦾&nbsp; Embodied AI &amp; robotics</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NVIDIA%20Isaac%20GR00T-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Isaac GR00T" height="26">
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" height="26">
+  <img src="https://img.shields.io/badge/Intel%20RealSense-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel RealSense" height="26">
+  <img src="https://img.shields.io/badge/SpaceMouse%20teleop-455A64?style=flat-square" alt="SpaceMouse teleop" height="26">
+</p>
+
+<p align="center"><b>🧩&nbsp; Agentic systems &amp; structured outputs</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" height="26">
+  <img src="https://img.shields.io/badge/JSON%20Schema-1E293B?style=flat-square" alt="JSON Schema" height="26">
+  <img src="https://img.shields.io/badge/Constrained%20decoding-3F6212?style=flat-square" alt="Constrained decoding" height="26">
+  <img src="https://img.shields.io/badge/Typed%20tool%20calling-4C1D95?style=flat-square" alt="Typed tool calling" height="26">
+  <img src="https://img.shields.io/badge/Hugging%20Face%20Hub-FFAF00?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Hub" height="26">
+</p>
+
+<p align="center"><b>📐&nbsp; Scientific &amp; numerical computing</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" height="26">
+  <img src="https://img.shields.io/badge/SciPy-0C5A9E?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" height="26">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" height="26">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" height="26">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" alt="MATLAB" height="26">
+  <img src="https://img.shields.io/badge/HYPRE%20%2F%20SuperLU-2E5E4E?style=flat-square" alt="HYPRE / SuperLU" height="26">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="26">
+</p>
+
+<p align="center"><b>🧪&nbsp; Evaluation, experiments &amp; infrastructure</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" height="26">
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" height="26">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" height="26">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="26">
+  <img src="https://img.shields.io/badge/Linux-1F2328?style=flat-square&logo=linux&logoColor=white" alt="Linux" height="26">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" alt="AWS" height="26">
+  <img src="https://img.shields.io/badge/Make-6D4C41?style=flat-square&logo=make&logoColor=white" alt="Make" height="26">
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white" alt="uv" height="26">
+</p>
+
+<p align="center"><b>⌨️&nbsp; Languages &amp; everyday tooling</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="26">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" height="26">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" height="26">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="26">
+  <img src="https://img.shields.io/badge/SQL%20%2F%20PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL / PostgreSQL" height="26">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" height="26">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="26">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" height="26">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" alt="VS Code" height="26">
+</p>
+
 
 ## 🤝 Connect with me
 <p align="center">
